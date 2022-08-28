@@ -1,11 +1,11 @@
 ## Henry Hunt
-### Physics and Mathmatics Major at the University of Chicago
+### Physics Ph.D. Canidate at Stanford
 <!--
 **henhen724/henhen724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [Wi-DAQ](https://github.com/henhen724/Wi-DAQ) an open source MQTT and MongoDB based slow control system, and [QIS Control](https://gitlab.com/qc_devs/fw_ecosystem/-/wikis/home) a single board control system for microwave and radio frequency qubits.
-- 📫 You can reach me at hshunt@uchicago.edu.
+- 🔭 I’m not currently working on any public repositories, but if you would like to contribute to any of my projects, like [Wi-DAQ](https://github.com/henhen724/Wi-DAQ), shoot me an email.
+- 📫 You can reach me at hshunt@stanford.edu.
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
